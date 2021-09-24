@@ -69,6 +69,10 @@ h1 {
   align-items: center;
 }
 
+.author {
+  float: left;
+}
+
 @media only screen and (max-width: 400px) {
   .mainimg {
     padding-left: 5px;
