@@ -5,7 +5,7 @@
 }
 
 .bg-light {
-  background-color: red !important;
+  background-color: #5882ac !important;
 }
 
 .page {
@@ -48,7 +48,7 @@ html, body {
   width: 100%;
   height: 50px;
   clear: both;
-  background-color: red;
+  background-color: #966fd6;
 }
 
 .footer-contents {
@@ -71,6 +71,14 @@ h1 {
 
 .author {
   float: left;
+}
+
+a{
+  color: #212529;
+}
+
+a:hover{
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 400px) {
